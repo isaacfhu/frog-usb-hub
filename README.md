@@ -1,11 +1,12 @@
 # frog-usb-hub
-My first USB Hub
+My first USB Hub. Cool, isn't it? ;o
+(link to my journal: https://macondo.hackclub.com/projects/5888)
 
 Schematic:
-![images/schematic.png]
+![](images/schematic.png)
 
 PCB:
-![images/pcb.png]
+![](images/pcb.png)
 
 3D: 
 
